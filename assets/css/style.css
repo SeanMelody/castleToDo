@@ -1,5 +1,6 @@
 body {
     text-align: center;
+    background-color: lightgray;
 }
 
 header {
@@ -7,4 +8,10 @@ header {
     padding: 25px;
     height: max-content;
     background-color: lightblue
+}
+
+.main-photo {
+    height: 100%;
+    width: 100%;
+    border: 1px solid black;
 }
